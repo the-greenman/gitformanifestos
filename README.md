@@ -2,7 +2,9 @@
 
 
 
-Examples: https://github.com/showcases/policies
+Examples: 
+* https://github.com/showcases/policies
+* http://openpolitics.org.uk/contributing.html
 
 
 * Manifestos, policies and processes are code on which organisations run

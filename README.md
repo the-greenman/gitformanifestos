@@ -2,6 +2,8 @@
 
 
 # Lessons in collaboration from the world of software
+
+## Work like coders
 Software is written with words. The languages used are rather specific so that their meaning can be exact and unambiguous, but they are not that far removed from any other language. The fact that software must be exact, that not a single word can be out of place, makes it very hard for programmers to work together on the same document. One small comma out of place and it all falls down. __Yet, how come the same piece of software could have thousands of contributors? More than that, thousands of people working on the same text - and no central plan or project management?__
 
 Programmers have had one very significant advantage over other wordsmiths, they know when what they have written is correct (or at least works). Being able to detect problems in code quickly, and the need for intense, unambiguous communication has forced software developers to find new techniques for collaboration at a level very rarely required in any other field. Now, as sofware begins to influence almost every aspect of our lives, these techniques and tools are becomming available in many other fields. 
@@ -9,6 +11,12 @@ Programmers have had one very significant advantage over other wordsmiths, they 
 The foundation of most, if not all, collaboration techniques developed within the software industry is __version control__. Version control tools allow different people to work on the same text, and for their changes to be tracked and (generally) safely combined. Different people are able to safely edit and save their own copy of a file, while integrating just the changes they want from others. 
 
 __Version control systems, distributed version control systems in particular are non-hierarchical, decentralised tools for collaboration and decision making that will form the foundation of most collaborative organisations in the years to come. It's time you learned how to use them.__ 
+
+## What would a programmer do?
+Any effective organisation runs on it's own software. Often this code is unwritten, and in most cases, locked away in the minds of "management" so that they can stay in control. If we want to create an organisation that is less heirarchical and more open, these rules need to be made clear, they need to be extracted from the minds of those involved and turned into words - turned into a program that will allow the organisation to work. 
+
+Extracting and writing the rules is hard. It involves time and difficult decisions. Once you get the first draft out "onto paper" however, the tools that programmers use to manage their source code come into play. These tools are free and getting easier and easier to use every day. 
+
 
 
 

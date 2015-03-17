@@ -48,7 +48,8 @@ Examples:
 ## Github
 * Github is the biggest online tool for managing git repositories
 * Github allows easy, online editing 
-* Markdown allows simple formatting
+* Markdown allows simple formatting (http://daringfireball.net/projects/markdown/). Using markdown keeps simple formating as plain text, so that it is easy to compare and manage changes. 
+
 
 
 

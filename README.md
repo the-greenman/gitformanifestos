@@ -17,6 +17,12 @@ Every organisation has it's own source code. Often this code is unwritten, and i
 
 Extracting and writing the rules is hard. It involves time and difficult decisions. Once you get the first draft out "onto paper" however, the tools that programmers use to manage their source code come into play. These tools are free and getting easier and easier to use every day. 
 
+## Empower the individuals
+Collaborative editing environments, like google docs and wikis offer a way to edit documents collectively. However, many people are afraid to edit a wiki because they never know if they are allowed to, or if their edit is "important" enough. It can be very difficult to create an environment where everyone within and organisation feels confident enough to make changes that might be important. 
+
+Version control makes it possible to safely create a concurrent version of a document, make any proposed changes, and then share their changes in a way that will allow them to be included - if they are agreed on. Changes are safe, and anyone is free to make changes safely. 
+
+
 
 ---------------------------------
 
@@ -29,7 +35,7 @@ Examples:
 
 * Manifestos, policies and processes are code on which organisations run
 * These documents should not simply be changed on a whim
-* Many people are afraid to edit a wiki because they never know if they are allowed to, or if their edit is "important" enough, so there are invisible barriers to collective edits
+ so there are invisible barriers to collective edits
 * It should be easy and safe to propose and share changes
 * if must be possible to know exactly which version of a policy is currently active 
 
@@ -56,7 +62,6 @@ Examples:
 In an open organisation, these documents should be shareable, allowing others to build new organisations based on the same "code"
 
 
-Collaborative editing environments, like google docs and wikis offer a way to edit documents collectively. However, when a document is a collective declaration, a manifesto or shared process, these should not simply be changed on a whim. 
 
 
 

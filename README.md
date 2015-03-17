@@ -22,6 +22,7 @@ Extracting and writing the rules is hard. It involves time and difficult decisio
 
 
 Examples: 
+* http://www.hastac.org/blogs/harrisonm/2013/10/12/github-academia-and-collaborative-writing
 * https://github.com/showcases/policies
 * http://openpolitics.org.uk/contributing.html
 

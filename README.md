@@ -34,8 +34,7 @@ Examples:
 
 
 * Manifestos, policies and processes are code on which organisations run
-* These documents should not simply be changed on a whim
- so there are invisible barriers to collective edits
+* These documents should not simply be changed on a whim so there are invisible barriers to collective edits
 * It should be easy and safe to propose and share changes
 * if must be possible to know exactly which version of a policy is currently active 
 
@@ -46,7 +45,7 @@ Examples:
 * Thousands of people can work on the same file
 * Git is probably the most popular open source tool for managing versions
 * When editing documents in version control all changes are recorded as differences between versions
-* Each change can be "blamed" on an individual
+* Each change can be "attributed" on an individual
 * Changes can be added and removed easily
 * 
 
@@ -59,7 +58,7 @@ Examples:
 
 
 
-In an open organisation, these documents should be shareable, allowing others to build new organisations based on the same "code"
+In an open organisation, these documents should be shareable, allowing others to build new organisations based on the same "code".
 
 
 
